@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8330ff584801e07337feb2d78fa5b6e49dc50c02",
+    "author": "Karthik Ram <karthik.ram@gmail.com>",
+    "time": "2020-02-20 00:32:00",
+    "files": 1,
+    "merge": false,
+    "message": "Updated with cran release\n"
+  },
+  "remote": "https://github.com/ropensci/ecoengine",
+  "pkg": "ecoengine"
+}
